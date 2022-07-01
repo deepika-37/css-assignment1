@@ -1,0 +1,68 @@
+h2{
+    color: red;
+    font-size: 30px;
+}
+.p{
+   color:red;
+}
+
+.First{
+    color: crimson;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ol{
+
+  color: brown; 
+  font-size: px;
+  font-family: italic; 
+}
+
+ul{
+    color: brown;
+    font-display: 20px;
+    font-family: italic;
+}
+
+p{
+    color:brown;
+    font-display: 20px;
+    font-size: 15px;
+    font-weight: italic;
+}
+
+a{
+    color: crimson;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#p1{
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+
+.one{
+    background-color: yellow;
+}
+
+.two{
+    text-decoration: line-through;
+}
+iv.c{
+    text-decoration-line: line-through;
+}
+div.c{
+    text-decoration-line: line-through;
+    text-decoration-line: line-through;
+
+text-decoration-line: line-through;
+text-decoration-line: line-through;
+}
+.c{
+    text-decoration-line: line-through;
+    text-decoration-line: line-through;
+}
